@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/porta1.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,29 +31,20 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "API RESTful de Pedidos con Spring Boot",
+    description: "Proyecto Colaboratico en el Desarrollo de una Api de Pedidos con Spring Boot y JWT como autenticacion a las peticiones de la Api,se utilizo Mysql como base de datos y se desplego en Apache XAMPP, testing con Mockito y Junit5",
+    url: "https://github.com/ObedMP/ApiRestPedidos"
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    "title": "Control de Clientes",
+    "description": "Proyecto Desarrollado con Java Core usando Arquitectura MVC, se utilizo Mysql como base de datos, para la vista se uso Boostrap y JSP, se desplego en Apache XAMPP",
+    "url": "https://github.com/ObedMP/ManageCustomer"
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+    "title": "Api de Logeo con Spring Boot",
+    "description": "Api de Login usando la libreria Spring,se implemento patrones de diseño tradicional para el tipo de arquitectura de la APi.",
+    "url": "https://github.com/ObedMP/ApiLogin"
+  }, 
 ];
 
 const Portfolio = () => {

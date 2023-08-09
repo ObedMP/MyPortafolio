@@ -24,19 +24,18 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "Soy Estudiante Egresado de la carrera de ingenieria en sistemas computacionales, con experiencia academica en el Desarrollo en Lenguaje Java Backend y Frontend, ademas con conocimientos en Python,c# y php, tambien en el uso de Frameworks como Angular, Boostrap, entre otros. Añadiendo tengo conimientos en Servicios Oracle BD, Oracle Apex y OCI ";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Diseño web",
+  "Base de Datos",
+  "Consultor Oracle",
+  "Testing",
+  "Analisis de requerimientos",
+  "Desarrollo de Software",
 ];
 
 /**
@@ -45,8 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
-
+  "Me apasiona resolver problemas de nuevas formas creativas para impulsar la innovación. Al aprovechar mi experiencia en el desarrollo de aplicaciones, busco continuamente nuevas y mejores formas de hacer que la tecnología sea accesible para todos.";
 const About = () => {
   return (
     <section className="padding" id="about">
