@@ -45,6 +45,11 @@ const projectList = [
     "description": "Api de Login usando la libreria Spring,se implemento patrones de diseño tradicional para el tipo de arquitectura de la APi.",
     "url": "https://github.com/ObedMP/ApiLogin"
   }, 
+   {
+    "title": "Sistema Web de Administracion Bibliotecaria",
+    "description": "Implementado con arquitectura MVC en lenguaje java ,Backend se uso Lenguaje Java y Libreria Spring Boot , JPA y Security , Para el Frontend se uso Angular y boostrap.",
+    "url": "https://github.com/ObedMP/Sistema_Bibliotecario"
+  }, 
 ];
 
 const Portfolio = () => {
