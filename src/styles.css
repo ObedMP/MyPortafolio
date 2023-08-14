@@ -12,6 +12,8 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
+  /* add smooth scrolling */
+  scroll-behavior: smooth;
 }
 
 div#main {
