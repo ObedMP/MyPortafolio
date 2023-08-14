@@ -27219,7 +27219,7 @@ const About = ()=>{
                 },
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
-                        children: "About Myself"
+                        children: "Acerca de M\xed"
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
                         lineNumber: 61,
@@ -28540,7 +28540,7 @@ const Header = ()=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
                 href: "#home",
-                children: "Home"
+                children: "Inicio"
             }, void 0, false, {
                 fileName: "src/Components/Header.jsx",
                 lineNumber: 24,
@@ -28548,7 +28548,7 @@ const Header = ()=>{
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
                 href: "#about",
-                children: "About"
+                children: "Acerca de M\xed"
             }, void 0, false, {
                 fileName: "src/Components/Header.jsx",
                 lineNumber: 25,
@@ -28564,7 +28564,7 @@ const Header = ()=>{
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
                 href: "#footer",
-                children: "Contact"
+                children: "Contacto"
             }, void 0, false, {
                 fileName: "src/Components/Header.jsx",
                 lineNumber: 27,
